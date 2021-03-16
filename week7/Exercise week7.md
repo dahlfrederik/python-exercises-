@@ -9,7 +9,7 @@ Handle the popup
 1. Create a python class my_car with the parameters price, horsepower and a link 
 2. Use selenium to search for "ferrari" 
 3. Use BeautifulSoup to find all the prices, horsepower and the link reference href 
-4. Calculate which car is the cheapest pr. horsepower driven
+4. Calculate which car is the cheapest pr. horsepower
 5. Some prices are marked as "ring", handle that
 
 

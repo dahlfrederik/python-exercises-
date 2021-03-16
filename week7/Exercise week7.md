@@ -2,23 +2,22 @@
 
 [**Bilbasen**](Bilbasen.dk )
 
-Remember to handle the popup when you first enter the site. Find id og klik.
+Handle the popup
 
 **Exercise1:**
 
-1. Create a python class car_basne_dk
+1. Create a python class my_car with the parameters price, horsepower and a link 
 2. Use selenium to search for "ferrari" 
-3. Use BeautifulSoup to find all the prices, kilometres driven and the link reference href 
-4. Calculate which car is the cheapest pr. kilometre driven
+3. Use BeautifulSoup to find all the prices, horsepower and the link reference href 
+4. Calculate which car is the cheapest pr. horsepower driven
 5. Some prices are marked as "ring", handle that
-6. Test the .py file in CLI 
 
 
 **Exerice2:**
 
-1. In your notebook import the python class car_basen_dK:
+1. In your notebook import the python class my_car:
 2. Search for "ferrari" 
 3. Sort the cars in ascending order 
 4. Use regex to extract the car model from the link reference
 5. Plot the prices on the Y axis, and the car name on the x axis in a bar chart
-6. Demonstrate the function calculating the cheapest car pr. kilometre driven
+6. Demonstrate the function calculating the cheapest car pr. horsepower
